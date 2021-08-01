@@ -42,7 +42,7 @@ for img in list:
 
         imgurl = img.get_attribute("src") # get thumnails address list
         time.sleep(1)
-        urllib.request.urlretrieve(imgurl,address+str(keyword)+str(i)+".jpg") # download images in address folder
+        urllib.request.urlretrieve(imgurl,address+"/"+str(keyword)+str(i)+".jpg") # download images in address folder
 
     except:
         pass
