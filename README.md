@@ -3,5 +3,5 @@ Python codes that i studyed
 데이터 분석, ML,DL,AI 등의 직무에서 가장 많이 사용되는 언어인 파이썬을 공부하기 위한 저장소
 
 파이썬으로 코드를 작성할 때 마다 업로드 할 것
-코드에 관한 설명과 이야기는 velog에 없로드
+코드에 관한 설명과 이야기는 velog에 업로드
 https://velog.io/@now2466
