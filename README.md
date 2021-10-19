@@ -5,3 +5,6 @@ Python codes that i studyed
 파이썬으로 코드를 작성할 때 마다 업로드 할 것
 코드에 관한 설명과 이야기는 velog에 업로드
 https://velog.io/@now2466
+
+Starbucks DT and Mcdonals DT  crawling and visualization
+https://velog.io/@now2466/스타벅스-DT매장과-맥도날드-DT매장의-위치-시각화
