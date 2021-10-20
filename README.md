@@ -14,4 +14,4 @@ https://velog.io/@now2466
 - https://velog.io/@now2466/스타벅스-DT매장과-맥도날드-DT매장의-위치-시각화
 
 3. Visualization for Population Decrease Problem
-- 
+- https://velog.io/@now2466/대한민국-인구소멸위기-지역-시각화
